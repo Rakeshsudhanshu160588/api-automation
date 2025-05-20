@@ -1,0 +1,26 @@
+{
+  "name": "api-automation",
+  "version": "1.0.0",
+  "description": "API testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakeshsudhanshu160588/api-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rakeshsudhanshu160588/api-automation/issues"
+  },
+  "homepage": "https://github.com/Rakeshsudhanshu160588/api-automation#readme",
+  "dependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.4.0",
+    "supertest": "^7.1.1"
+  }
+}
