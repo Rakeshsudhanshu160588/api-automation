@@ -1,5 +1,5 @@
 {
-  "name": "api-automation",
+  "name": "supertestapi-automation",
   "version": "1.0.0",
   "description": "API testing",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Rakeshsudhanshu160588/api-automation.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rakesh Sudhanhsu",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
